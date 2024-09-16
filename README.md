@@ -21,7 +21,7 @@ This project involves the deployment of a 5-item NFT collection using Bing AI-ge
 
 ### Installation
 
-1. Clone this repository: `git clone https://github.com/SUNILCHOUDHARY5764/Polygon_Module1.git`
+1. Clone this repository: `git clone https://github.com/nikhil-2818/Poly_bridge.git`
 2. Navigate to the project folder.
 3. Install dependencies: `npm install`
 ### Wallet Config
@@ -89,9 +89,9 @@ string public prompt = "A Under-water world Portait, A Creative Futuristic World
 - [Sepolia PoS Chain Testnet Explorer](https://sepolia.etherscan.io)
 ## Authors
 
-- Sunil Kumar
-- sunilchaudhary5879@gmail.com
-- @Sunil Kumar: [GitHub Profile](https://github.com/SUNILCHOUDHARY5764)
+- Nikhil Kumar
+- nikhil.mkbn@gmail.com
+- @Nikhil Kumar: [GitHub Profile](https://github.com/nikhil-2818)
 
 ## License
 
